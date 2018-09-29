@@ -6,6 +6,10 @@ this is a small project dedicated to steganography.
 It provides functionality to **encode** a message in an image and
 to **decode** the message from the image.
 
+## Status
+
+[![Build Status](https://travis-ci.com/lzutao/golsb.svg?branch=master)](https://travis-ci.com/lzutao/golsb)
+
 ## Build
 
 Clone [this repo](https://github.com/lzutao/godhchat) and go to cloned directory.
