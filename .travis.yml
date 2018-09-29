@@ -8,4 +8,4 @@ go:
 install:
   - go build
 script:
-  - ./golsb -h
+  - ./golsb -h || echo END
